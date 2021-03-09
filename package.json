@@ -1,0 +1,9 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AnnSyh/my-project.git",
+  "author": "Anna Syharevskaya <ann.syharevskaya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
